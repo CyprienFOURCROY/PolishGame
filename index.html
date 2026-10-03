@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Polish Game</title>
+  <style>
+    body { margin: 0; overflow: hidden; background: #000; font-family: sans-serif; }
+    #ui { position: fixed; inset: 0; pointer-events: none; color: #fff; }
+    #hint     { position: absolute; top: 12px; left: 12px; font-size: 14px; opacity: 0.6; }
+    #prompt   { position: absolute; top: 60%; width: 100%; text-align: center; font-size: 22px; }
+    [hidden] { display: none !important; }
+    #talk { position: absolute; top: 40px; left: 12px; width: 400px; padding: 12px; background: rgba(0,0,0,.85); border: 1px solid #fff; pointer-events: auto; }
+    #talk-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    #talk-title { font-weight: bold; }
+    #talk-quit { background: #000; color: #fff; border: 1px solid #fff; padding: 3px 8px; cursor: pointer; font-size: 12px; } #talk-quit:hover { background: #333; }
+    #talk-log { max-height: 35vh; overflow-y: auto; font-size: 15px; line-height: 1.4; }
+    #talk-log div { cursor: pointer; padding: 1px 2px; } #talk-log div:hover { background: #222; }
+    #talk-log input { width: 100%; box-sizing: border-box; background: #000; color: #fff; border: 1px solid #fff; padding: 3px; font-size: 15px; }
+    #talk-status { font-size: 13px; opacity: .7; margin: 8px 0; }
+    #talk-input { width: 100%; box-sizing: border-box; background: #000; color: #fff; border: 1px solid #888; padding: 6px; font-size: 16px; }
+    #panel { position: absolute; top: 0; right: 0; bottom: 0; width: 300px; padding: 12px; background: rgba(0,0,0,.88); border-left: 1px solid #fff; font-size: 14px; line-height: 1.5; overflow-y: auto; pointer-events: auto; }
+    #panel h2, #panel h3 { margin: 12px 0 6px; } #panel h2 { margin-top: 0; } #panel small { font-weight: normal; opacity: .6; }
+    #panel select { width: 100%; background: #000; color: #fff; border: 1px solid #888; padding: 4px; }
+    #panel label { display: block; margin: 6px 0; } #panel input[type=range] { width: 100%; }
+    #subtitle { position: absolute; bottom: 8%; width: 100%; text-align: center; font-size: 26px; }
+  </style>
+</head>
+<body>
+  <div id="ui">
+    <div id="hint">Arrows: move · Space: jump (also in the air) · E: talk · Click: turn camera with the mouse · Esc: lock camera · U: panel · S: sound</div>
+    <div id="prompt"></div>
+    <div id="talk" hidden>
+      <div id="talk-head"><span id="talk-title"></span><button id="talk-quit">Quit conversation (Shift+Esc)</button></div>
+      <div id="talk-log"></div>
+      <div id="talk-status"></div>
+      <input id="talk-input" placeholder="Pisz po polsku…" disabled>
+    </div>
+    <div id="panel" hidden></div>
+    <div id="subtitle"></div>
+  </div>
+  <script type="importmap">
+  { "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js" } }
+  </script>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "character": "OldLady",
+  "first_speaker": "OldLady",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "OldLady",
+      "text": "[warmly] Cześć, młody człowieku! Jak się masz? Piękna pogoda, prawda?",
+      "audio": "Audio/OldLady/Conversation_2/First_speaker_OldLady/01.mp3"
+    },
+    {
+      "n": 2,
+      "speaker": "Hero",
+      "text": "Jest naprawdę piękna pogoda, a teraz możemy troszeczkę spacerować, nie?",
+      "audio": "Audio/OldLady/Conversation_2/Hero/02.mp3"
+    },
+    {
+      "n": 3,
+      "speaker": "OldLady",
+      "text": "[warmly] Tak, bardzo lubię spacerować. Czy masz dzieci lub wnuki?",
+      "audio": "Audio/OldLady/Conversation_2/First_speaker_OldLady/03.mp3"
+    }
+  ]
+}

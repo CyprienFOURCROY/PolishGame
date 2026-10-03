@@ -1,0 +1,36 @@
+{
+  "character": "Homeless",
+  "first_speaker": "Homeless",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "Homeless",
+      "text": "[cicho] [spokojnie] Przepraszam, masz może dwa złote na chleb? Bardzo proszę.",
+      "audio": "Audio/Homeless/Conversation_2/First_speaker_Homeless/01.mp3"
+    },
+    {
+      "n": 2,
+      "speaker": "Hero",
+      "text": "Chcesz dwa złote na chleb czy na butelkę? Bo wyglądasz troszeczkę pijany, nie?",
+      "audio": "Audio/Homeless/Conversation_2/Hero/02.mp3"
+    },
+    {
+      "n": 3,
+      "speaker": "Homeless",
+      "text": "[smutno] [szeptem] Nie piję, naprawdę. Tylko coś do jedzenia bym chciał, proszę pana.",
+      "audio": "Audio/Homeless/Conversation_2/First_speaker_Homeless/03.mp3"
+    },
+    {
+      "n": 4,
+      "speaker": "Hero",
+      "text": "O pięć zł. Proszę kupić kanapkę, ee, jakieś napoje, wodę. No. Mam nadzieję, że wszystko będzie w porządku",
+      "audio": "Audio/Homeless/Conversation_2/Hero/04.mp3"
+    },
+    {
+      "n": 5,
+      "speaker": "Homeless",
+      "text": "[cicho] [wdzięcznie] Dziękuję bardzo, panie. Kupię kanapkę i wodę. Niech pan ma dobry dzień.",
+      "audio": "Audio/Homeless/Conversation_2/First_speaker_Homeless/05.mp3"
+    }
+  ]
+}

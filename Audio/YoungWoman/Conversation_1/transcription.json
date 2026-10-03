@@ -1,0 +1,37 @@
+{
+  "character": "YoungWoman",
+  "first_speaker": "YoungWoman",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "YoungWoman",
+      "text": "[cheerfully] Cześć! Skąd jesteś?",
+      "audio": "Audio/YoungWoman/Conversation_1/First_speaker_YoungWoman/01.mp3"
+    },
+    {
+      "n": 2,
+      "speaker": "Hero",
+      "text": "Cześć, jestem z Francji, a ty?",
+      "audio": "Audio/YoungWoman/Conversation_1/Hero/02.mp3"
+    },
+    {
+      "n": 3,
+      "speaker": "YoungWoman",
+      "text": "[cheerfully] Jestem z Polski. Co robisz w Polsce?",
+      "audio": "Audio/YoungWoman/Conversation_1/First_speaker_YoungWoman/03.mp3"
+    },
+    {
+      "n": 4,
+      "speaker": "Hero",
+      "text": "No to tak spaceruję, wiesz, piękne życie, nie?",
+      "audio": "Audio/YoungWoman/Conversation_1/Hero/04.mp3",
+      "original": "No to tak spaceruję, wiesz, to jest życie. To jest po prostu takie piękne życie, nie?"
+    },
+    {
+      "n": 5,
+      "speaker": "YoungWoman",
+      "text": "[cheerfully] Tak, życie jest piękne! Lubisz kawę?",
+      "audio": "Audio/YoungWoman/Conversation_1/First_speaker_YoungWoman/05.mp3"
+    }
+  ]
+}

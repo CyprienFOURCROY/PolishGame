@@ -1,0 +1,24 @@
+{
+  "character": "BusinessMan",
+  "first_speaker": "BusinessMan",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "BusinessMan",
+      "text": "[rushed] Gdzie jest najbliższa stacja? Spieszę się!",
+      "audio": "Audio/BusinessMan/Conversation_1/First_speaker_BusinessMan/01.mp3"
+    },
+    {
+      "n": 2,
+      "speaker": "Hero",
+      "text": "po prawej stronie",
+      "audio": "Audio/BusinessMan/Conversation_1/Hero/02.mp3"
+    },
+    {
+      "n": 3,
+      "speaker": "BusinessMan",
+      "text": "[impatient] Dziękuję, muszę lecieć!",
+      "audio": "Audio/BusinessMan/Conversation_1/First_speaker_BusinessMan/03.mp3"
+    }
+  ]
+}

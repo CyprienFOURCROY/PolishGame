@@ -1,0 +1,36 @@
+{
+  "character": "Jogger",
+  "first_speaker": "Jogger",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "Jogger",
+      "text": "[panting] Cześć! Biegam teraz. Lubisz biegać?",
+      "audio": "Audio/Jogger/Conversation_1/First_speaker_Jogger/01.mp3"
+    },
+    {
+      "n": 2,
+      "speaker": "Hero",
+      "text": "Tak, lubię biegać. Wydaje mi się, że sport jest bardzo ważny. A ile kilometrów już biegasz?",
+      "audio": "Audio/Jogger/Conversation_1/Hero/02.mp3"
+    },
+    {
+      "n": 3,
+      "speaker": "Jogger",
+      "text": "[rushed] Dzisiaj biegam pięć kilometrów! A ty, ile biegasz?",
+      "audio": "Audio/Jogger/Conversation_1/First_speaker_Jogger/03.mp3"
+    },
+    {
+      "n": 4,
+      "speaker": "Hero",
+      "text": "Chyba pięć kilometrów też. Jestem naprawdę spa-spocony, a ty?",
+      "audio": "Audio/Jogger/Conversation_1/Hero/04.mp3"
+    },
+    {
+      "n": 5,
+      "speaker": "Jogger",
+      "text": "[panting] Tak, ja też! Bieganie to super trening!",
+      "audio": "Audio/Jogger/Conversation_1/First_speaker_Jogger/05.mp3"
+    }
+  ]
+}
