@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "Rozmowa1": "Dzień dobry, poproszę kawę",
+    "Rozmowa2": "Nie wiem, kawa z kawą ?"
+  },
+  "Stewardess": {
+    "Rozmowa1": "Napoje, przekąski, kanapki",
+    "Rozmowa2": "Jaką kawę pan chce ?",
+    "Rozmowa3": "Czyli czarna kawa, kawa z mlekiem, Americano, zaproponuję też kawę z lodem, takie Tonic Espresso."
+  },
+  "Passenger": {
+    "Rozmowa1": "Pierwszy raz w Polsce?"
+  }
+
+}

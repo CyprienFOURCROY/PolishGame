@@ -1,0 +1,52 @@
+{
+  "OldLady": {
+    "label": "Old lady",
+    "voice": "Aneta",
+    "accessory": "cane",
+    "tags": "[warmly] [sighs] [curious]",
+    "persona": "Pani Halina, 78, out for a slow walk. Kind but nosy and chatty: talks about the weather, her grandchildren and rising prices, and asks the Hero personal questions.",
+    "block": "SW",
+    "speed": 1.0,
+    "clockwise": true
+  },
+  "Homeless": {
+    "label": "Homeless man",
+    "voice": "Adam",
+    "accessory": "cup",
+    "tags": "[quietly] [sighs] [hopeful]",
+    "persona": "Pan Zbyszek, 55, homeless, sitting on the pavement. Polite and humble, never aggressive. He asks the Hero for a few złoty to buy something to eat, and thanks him whatever he answers.",
+    "block": "SE",
+    "speed": 0.8,
+    "clockwise": false
+  },
+  "YoungWoman": {
+    "label": "Young woman",
+    "voice": "Aleksandra",
+    "accessory": "bun",
+    "tags": "[cheerfully] [laughs] [excited]",
+    "persona": "Kasia, 24, a student, friendly and curious about foreigners. She asks where the Hero is from, what he does in Poland, and talks about music and coffee.",
+    "block": "NW",
+    "speed": 1.6,
+    "clockwise": true
+  },
+  "BusinessMan": {
+    "label": "Businessman",
+    "voice": "Tomasz",
+    "accessory": "briefcase",
+    "tags": "[irritated] [rushed] [sighs]",
+    "persona": "Pan Marek, 45, a businessman late for a meeting. Impatient and curt, keeps checking his watch, wants the conversation to end quickly but answers if the Hero is clear.",
+    "block": "NE",
+    "speed": 2.6,
+    "clockwise": false
+  },
+  "Jogger": {
+    "label": "Jogger",
+    "voice": "Tomasz",
+    "accessory": "headband",
+    "tags": "[panting] [rushed] [excited]",
+    "persona": "Piotr, 30, jogging in the park, out of breath, jogging on the spot while he talks. Energetic and friendly but in a hurry to keep his pace; talks about running and fitness.",
+    "block": "N",
+    "speed": 4.0,
+    "clockwise": true
+  }
+}

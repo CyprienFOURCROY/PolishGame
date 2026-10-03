@@ -1,0 +1,36 @@
+{
+  "character": "Homeless",
+  "first_speaker": "Homeless",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "Homeless",
+      "text": "[quietly] [hopeful] Dzień dobry, proszę pana. Może ma pan dwa złote na bułkę?",
+      "audio": "Audio/Homeless/Conversation_1/First_speaker_Homeless/01.mp3"
+    },
+    {
+      "n": 2,
+      "speaker": "Hero",
+      "text": "A czy naprawdę pan kupuje bukiety albo butelki?",
+      "audio": "Audio/Homeless/Conversation_1/Hero/02.mp3"
+    },
+    {
+      "n": 3,
+      "speaker": "Homeless",
+      "text": "[sighs] [quietly] Nie, ja tylko chcę kupić coś do jedzenia, naprawdę.",
+      "audio": "Audio/Homeless/Conversation_1/First_speaker_Homeless/03.mp3"
+    },
+    {
+      "n": 4,
+      "speaker": "Hero",
+      "text": "Dobra, oto dwa. Dziękujęęę. To wszystko. Ale do zobaczenia. Cześć",
+      "audio": "Audio/Homeless/Conversation_1/Hero/04.mp3"
+    },
+    {
+      "n": 5,
+      "speaker": "Homeless",
+      "text": "[gratefully] [smiles] Bardzo dziękuję, życzę miłego dnia! Do widzenia!",
+      "audio": "Audio/Homeless/Conversation_1/First_speaker_Homeless/05.mp3"
+    }
+  ]
+}

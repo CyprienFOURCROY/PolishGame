@@ -1,0 +1,36 @@
+{
+  "character": "OldLady",
+  "first_speaker": "OldLady",
+  "turns": [
+    {
+      "n": 1,
+      "speaker": "OldLady",
+      "text": "[smiling warmly] Dzień dobry! Jak ładna pogoda, prawda? Skąd jesteś, kochanie?",
+      "audio": "Audio/OldLady/Conversation_1/First_speaker_OldLady/01.mp3"
+    },
+    {
+      "n": 2,
+      "speaker": "Hero",
+      "text": "Zgadzam się. To jest naprawdę piękna pogoda. A jeśli chodzi o mnie, jestem z Francji. Tutaj, no spaceruję tutaj, tutaj po mieście. Naprawdę fajnie. A co pani robi?",
+      "audio": "Audio/OldLady/Conversation_1/Hero/02.mp3"
+    },
+    {
+      "n": 3,
+      "speaker": "OldLady",
+      "text": "[cheerful] Och, ja spaceruję codziennie, bo to zdrowo. Mam też wnuki w Warszawie.",
+      "audio": "Audio/OldLady/Conversation_1/First_speaker_OldLady/03.mp3"
+    },
+    {
+      "n": 4,
+      "speaker": "Hero",
+      "text": "A, no to super. A gdzie mieszka to wnuki? Przepraszam",
+      "audio": "Audio/OldLady/Conversation_1/Hero/04.mp3"
+    },
+    {
+      "n": 5,
+      "speaker": "OldLady",
+      "text": "[cicho, życzliwie] Mieszkają blisko centrum, więc często ich widzę. A masz rodzinę w Polsce?",
+      "audio": "Audio/OldLady/Conversation_1/First_speaker_OldLady/05.mp3"
+    }
+  ]
+}
